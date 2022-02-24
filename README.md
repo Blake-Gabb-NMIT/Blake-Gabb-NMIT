@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blake-Gabb-NMIT
+- 👋 Hi, I’m @Blake-Gabb-NMIT, Also found on Gitlab @blakegabb
 - 👀 I’m interested in MTB, skating and paintballing
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Anything python based
